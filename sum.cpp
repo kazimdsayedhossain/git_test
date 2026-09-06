@@ -2,9 +2,9 @@
 using namespace std;
 int main() {
     int num1, num2, sum;
-    cout << "Enter the first number: ";
+    cout << "Enter the first number here: ";
     cin >> num1;
-    cout << "Enter the second number: ";
+    cout << "Enter the second number : ";
     cin >> num2;
     sum = num1 + num2;  // Adding the two numbers
     cout << "The sum of " << num1 << " and " << num2 << " is " << sum << endl;
